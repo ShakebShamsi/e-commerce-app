@@ -32,19 +32,13 @@ This project is designed for **educational purposes** to showcase a minimal e-co
 
 This is a **front-end only** project, so no back-end setup is needed! Just a basic understanding of HTML, CSS, and JavaScript will help you get started. 🌱
 
-##Clone this repository
+ ### 🛍️ How to Use
 
-   ```bash
-   git clone https://github.com/your-username/simple-ecommerce-project.git
-
-
-### 🛍️ How to Use
-
-1. **View Products**: See the available Apple products with prices. 🍏
-2. **Add to Cart**: Click the **"Add to cart"** button to add products to your cart. ➕
-3. **View Cart**: Check the cart below the product list. It displays the items added and the total price. 💰
-4. **Remove Items**: You can remove items by clicking the **"Remove"** button. ❌
-5. **Checkout**: Once you’re done shopping, click the **"Checkout"** button to clear the cart and complete your shopping experience. 🎉
+ 1. **View Products**: See the available Apple products with prices. 🍏
+ 2. **Add to Cart**: Click the **"Add to cart"** button to add products to your cart. ➕
+ 3. **View Cart**: Check the cart below the product list. It displays the items added and the total price. 💰
+ 4. **Remove Items**: You can remove items by clicking the **"Remove"** button. ❌
+ 5. **Checkout**: Once you’re done shopping, click the **"Checkout"** button to clear the cart and complete your shopping experience. 🎉
 
 ## ✨ Contributing
 
